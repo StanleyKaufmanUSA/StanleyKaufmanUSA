@@ -7,9 +7,9 @@ I build practical systems that connect customers, vehicles, financing, data, and
 ## What I’m Building
 
 * **Cars Now USA, LLC** — independent automotive retail and dealership operations
-* **Mobility & financing systems** — improving how customers, vehicles, dealers, and lenders connect
-* **Technology & automation** — using data and AI to make better operating decisions
-* **Business development** — finding overlooked assets, partnerships, and scalable opportunities
+* **Mobility & Financing Systems** — improving how customers, vehicles, dealers, and lenders connect
+* **Technology & Automation** — using data and AI to make better operating decisions
+* **Business Development** — finding overlooked assets, partnerships, and scalable opportunities
 
 ## How I Think
 
