@@ -1,4 +1,5 @@
-## Hi there 👋
+# Stanley Kaufman
+
 **Entrepreneur | Problem Solver | Automotive | Mobility | Technology**
 
 I build practical systems that connect customers, vehicles, financing, data, and opportunity.
